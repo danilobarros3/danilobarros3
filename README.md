@@ -1,4 +1,4 @@
-### Olá, eu sou Danilo Barros, sejam bem-vindo ao meu GitHub. 👋
+### Olá, eu sou Danilo Barros, sejam bem-vindos ao meu GitHub. 👋
 
 
 - Estudante de Análise e Desenvolvimento de Sistemas. 💻
