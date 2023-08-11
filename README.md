@@ -1,10 +1,6 @@
 ### Olá, eu sou Danilo Barros, sejam bem-vindo ao meu GitHub. 👋
 
 
-**danilobarros3/danilobarros3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - Estudante de Análise e Desenvolvimento de Sistemas. 💻
 - Focado em: Java, HTML5, CSS3, JavaScript, React e NodeJS. 💡
   
