@@ -2,7 +2,7 @@
 
 
 - Estudante de Análise e Desenvolvimento de Sistemas. 💻
-- Focado em: Java, HTML5, CSS3, JavaScript, Python, e SQL. 💡
+- Focado em: Java, HTML5, CSS3, JavaScript, TypeScript, ReactJS e NextJS 💡
   
 <div align="center">
   <a href="https://github.com/danilobarros3">
