@@ -2,7 +2,8 @@
 
 
 - Estudante de Análise e Desenvolvimento de Sistemas. 💻
-- Focado em: Java, HTML5, CSS3, JavaScript, TypeScript, ReactJS e NextJS 💡
+- Marcações de texto: HTML5 e CSS3 🖊️
+- Linguagens e Frameworks: JavaScript, TypeScript, React e Next ⚙️
   
 <div align="center">
   <a href="https://github.com/danilobarros3">
