@@ -2,7 +2,7 @@
 
 
 - Estudante de Análise e Desenvolvimento de Sistemas. 💻
-- Marcações de texto: HTML5 e CSS3 🖊️
+- Marcações de texto: HTML5, CSS3, Styled-Components e Tailwind CSS 🖊️
 - Linguagens e Frameworks: JavaScript, TypeScript, React e Next ⚙️
   
 <div align="center">
