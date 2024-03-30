@@ -3,7 +3,7 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas. 💻
 - Marcações de texto: HTML5, CSS3, Styled-Components e Tailwind CSS 🖊️
-- Linguagens e Frameworks: JavaScript, TypeScript, React e Next ⚙️
+- Linguagens e Frameworks: Java, JavaScript, TypeScript, React e Next ⚙️
   
 <div align="center">
   <a href="https://github.com/danilobarros3">
