@@ -1,9 +1,8 @@
-### Olá, eu sou Danilo Barros Frontend Developer, sejam bem-vindos ao meu GitHub. 👋
+### Olá, eu sou Danilo Barros Desenvolvedor Fullstack, sejam bem-vindos ao meu GitHub. 👋
 
 
-- Estudante de Análise e Desenvolvimento de Sistemas. 💻
 - Marcações de texto: HTML5, CSS3, Styled-Components e Tailwind CSS 🖊️
-- Linguagens e Frameworks: JavaScript, TypeScript, ReactJS, ReactNative, NextJS e NodeJS ⚙️
+- Linguagens e Frameworks: JavaScript, TypeScript, ReactJS, ReactNative, NextJS, MySQL, Prisma, NestJS, e NodeJS ⚙️
   
 <div align="center">
   <a href="https://github.com/danilobarros3">
@@ -14,7 +13,7 @@
 - 📲 Contato: 
 <div> 
 <a href="https://www.linkedin.com/in/danilobarros3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-<a href = "mailto:danbarros3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:danilobarros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
